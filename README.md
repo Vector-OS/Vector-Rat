@@ -1,5 +1,4 @@
-
- Vector-Rat
+ # Vector-Rat
 
 Vector-Rat is a powerful, efficient, and flexible remote access tool designed to provide an easy-to-use platform for managing and controlling remote devices. Built with scalability and performance in mind, it supports various functionalities for remote control, file management, and system monitoring.
 
